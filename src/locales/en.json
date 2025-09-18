@@ -1,0 +1,17 @@
+{
+  "read-more": "Read more",
+  "unavailable-news":"News service is currently unavailable.",
+  "authoring-phrase": {
+    "intro": "Made with",
+    "use": "Using",
+    "author": "by {brand} Development team"
+  },
+  "article": {
+    "share": "share",
+    "copy-to-clipboard": "Copy link to clipboard"
+  },
+  "footer": {
+    "powered-by": "Powered by",
+    "and": "y"
+  }
+}
